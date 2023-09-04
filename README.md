@@ -13,7 +13,7 @@ El repositorio se de abir desde un notebook de google colab
 
 ## Documentación Adicional
 
-En este repositorio, adicionalmente al código se encuentra el resumen ejecutivo del proyecto en un archivo de word
+En este repositorio, adicionalmente al código se encuentra el resumen ejecutivo del proyecto en un archivo pdf
 
 ## Estado del proyecto:
 Terminado
