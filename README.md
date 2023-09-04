@@ -11,6 +11,10 @@ Jairo Vladimir Chaparro Rodriguez 201531080
 ## Instrucciones de uso: 
 El repositorio se de abir desde un notebook de google colab
 
+## Documentación Adicional
+
+En este repositorio, adicionalmente al código se encuentra el resumen ejecutivo del proyecto en un archivo de word
+
 ## Estado del proyecto:
 Terminado
 
